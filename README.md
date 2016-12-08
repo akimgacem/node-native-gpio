@@ -12,6 +12,13 @@
 
 refer to [how to install gbs](https://source.tizen.org/ko/documentation/developer-guide/getting-started-guide/installing-development-tools?langredirect=1)
 
+## Setup
+
+```
+$ git clone git://git.tizen.org/platform/upstream/nodejs nodejs-tizen
+$ cd nodejs-tizen && git checkout b9b28b06449b0d6bac92ebc6c232839321e3d469
+```
+
 ## Build
 
 ### build
